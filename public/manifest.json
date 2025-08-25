@@ -1,0 +1,29 @@
+{
+  "name": "BoxPeru Elite - Gimnasio de Boxeo Profesional",
+  "short_name": "BoxPeru Elite",
+  "description": "El gimnasio de boxeo más prestigioso de Perú",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "16x16 32x32",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["sports", "fitness", "health"],
+  "lang": "es-PE"
+}

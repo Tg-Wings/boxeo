@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <!-- Actualizando dominio a https://boxeo-inky.vercel.app/ -->
+    <loc>https://boxeo-inky.vercel.app/</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="es-pe" href="https://boxeo-inky.vercel.app/" />
+  </url>
+  <url>
+    <loc>https://boxeo-inky.vercel.app/torneos</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="es-pe" href="https://boxeo-inky.vercel.app/torneos" />
+  </url>
+  <url>
+    <loc>https://boxeo-inky.vercel.app/galeria</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es-pe" href="https://boxeo-inky.vercel.app/galeria" />
+  </url>
+  <url>
+    <loc>https://boxeo-inky.vercel.app/nosotros</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es-pe" href="https://boxeo-inky.vercel.app/nosotros" />
+  </url>
+  <url>
+    <loc>https://boxeo-inky.vercel.app/contacto</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es-pe" href="https://boxeo-inky.vercel.app/contacto" />
+  </url>
+  <url>
+    <loc>https://boxeo-inky.vercel.app/comenzar</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="es-pe" href="https://boxeo-inky.vercel.app/comenzar" />
+  </url>
+  <url>
+    <loc>https://boxeo-inky.vercel.app/instalaciones</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es-pe" href="https://boxeo-inky.vercel.app/instalaciones" />
+  </url>
+</urlset>

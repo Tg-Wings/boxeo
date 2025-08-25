@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react"
 import { Button } from "@/components/ui/button"
-import { ChevronLeft, ChevronRight, Play } from "lucide-react"
+import { Play } from "lucide-react"
 import Image from "next/image"
 import { useRouter } from "next/navigation"
 
@@ -127,19 +127,6 @@ export default function HeroCarousel() {
             </div>
           </div>
         ))}
-
-        <button
-          onClick={prevSlide}
-          className="absolute left-2 sm:left-4 lg:left-6 top-1/2 -translate-y-1/2 bg-black/40 hover:bg-black/60 text-white p-2 sm:p-3 lg:p-4 rounded-full transition-all duration-300 backdrop-blur-sm border border-white/20 group"
-        >
-          <ChevronLeft size={20} className="sm:w-6 sm:h-6 group-hover:-translate-x-1 transition-transform" />
-        </button>
-        <button
-          onClick={nextSlide}
-          className="absolute right-2 sm:right-4 lg:right-6 top-1/2 -translate-y-1/2 bg-black/40 hover:bg-black/60 text-white p-2 sm:p-3 lg:p-4 rounded-full transition-all duration-300 backdrop-blur-sm border border-white/20 group"
-        >
-          <ChevronRight size={20} className="sm:w-6 sm:h-6 group-hover:translate-x-1 transition-transform" />
-        </button>
 
         <div className="absolute bottom-4 sm:bottom-6 lg:bottom-8 left-1/2 -translate-x-1/2 flex gap-2 sm:gap-3">
           {carouselData.map((_, index) => (

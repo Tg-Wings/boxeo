@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://boxperu-elite.com/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
+
+# Block access to admin areas (if any)
+Disallow: /admin/
+Disallow: /api/
+Disallow: /_next/
+Disallow: /private/
+
+# Allow important pages
+Allow: /
+Allow: /torneos
+Allow: /galeria
+Allow: /nosotros
+Allow: /contacto
+Allow: /comenzar
+Allow: /instalaciones
